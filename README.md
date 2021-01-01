@@ -7,7 +7,3 @@ The neural network was designed using only python and trained and tested on the 
 
 ## Jupyter notebook
 [MNIST_Neural-Network_Python.ipynb](MNIST_Neural_Network_Python.ipynb)
-
-
-## Colab run online (Google)
-[MNIST_Neural-Network_Python.ipynb](https://colab.research.google.com/drive/16lY8cf2hBSJpriKznmHkXzqWDtDU0Unu)
